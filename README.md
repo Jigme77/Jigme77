@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jigme Tenzin
 - 👀 I’m interested in Statistics and R
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data wrangling and analysis
 - 📫 How to reach me @tenz_jigme
 
 <!---
